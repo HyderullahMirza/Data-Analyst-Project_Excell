@@ -2,6 +2,32 @@
 
 ### Project: Data Analysis and Insights for Atliq Hardware
 
+### Learnt Tech Stacks
+- Excell
+- Power Query
+- Pivot Table
+- Dax Language
+
+### Learnt Techniques:
+
+- Vlookup
+- Xlookup
+- Index
+- Match
+- Data Modelling
+- Data Cleaning, deleting duplicate rows, unwanted spaces and much more
+- Created Calculated Columns
+- Created Project Priority Matrix
+- Created Measures using Dax Language
+- Created Macros
+
+### Business Related Terms
+
+- Net Sales
+- Gross Price
+- Net Profit
+- YoY% ( year over year percentage)
+
 #### Problem Statement:
 
 Atliq Hardware, a leading electronics manufacturer, faces a challenge in harnessing its expansive data repository to drive strategic decisions. The absence of a structured approach to data analysis hampers the organization's ability to unearth actionable insights from their sales, customer, and product data. This leads to missed growth opportunities and inefficiencies in decision-making.
